@@ -1,4 +1,4 @@
-# eg-stock-prediction
+# Egyptian stocks prediction
 An innovative stock market prediction project that utilizes domain expertise and machine learning algorithms like LGBM to forecast stock returns as positive or negative. The project involves data scraping, extensive feature engineering, and market comparisons to provide actionable investment recommendations.
 
 This project presents an innovative approach to predicting stock market returns by combining domain expertise with machine learning algorithms, primarily leveraging LightGBM (LGBM). The goal is to predict whether stock returns will be positive or negative, offering valuable insights for investment decisions.
